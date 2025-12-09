@@ -1,4 +1,4 @@
-// File: B:\Personal work\Personal\personal\the-select-match\app\layout.jsx
+// File: C:\Users\RISPER\match\app\layout.jsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
